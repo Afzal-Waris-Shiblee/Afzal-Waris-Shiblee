@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Afzal-Waris-Shiblee
+- 👋 Hi, I’m @Afzal-Waris
 - 👀 I’m interested in Python Language
 - 🌱 I’m currently learning Data Science...
 - 💞️ I’m looking to collaborate on Python Numpy and Pandas
