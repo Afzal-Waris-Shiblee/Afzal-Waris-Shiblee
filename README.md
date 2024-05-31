@@ -1,5 +1,25 @@
-- 👋 Hi, I’m @Afzal-Waris , Python Developer and Data analyist used Power BI and Python Pandas. Currently working FMCG company in Supply Chain Department. A Project build by me in " Python Procurement Price List " is successful running in my office.
-I am also familar work with other liabrary of Python like Numphy, Maptolib. I used Powerbi for data analysis and visualization.  
+👋 Hi, I’m Afzal Waris
+Python Developer and Data Analyst
+
+I am currently working in the Supply Chain Department of an FMCG company. With extensive experience in Python and Power BI, I specialize in data analysis and visualization to drive informed decision-making.
+About Me
+
+I have successfully developed and implemented a "Python Procurement Price List" project that is now running smoothly in my office. My expertise includes:
+
+    Python Programming: Skilled in using libraries such as Pandas, NumPy, and Matplotlib.
+    Data Analysis and Visualization: Proficient in Power BI for creating insightful and interactive dashboards.
+    Supply Chain Management: Applying data-driven techniques to optimize procurement and supply chain processes.
+
+Skills
+
+    Python: Pandas, NumPy, Matplotlib
+    Data Visualization: Power BI
+    Supply Chain Analytics
+    Project Development and Implementation
+
+Get in Touch
+
+Feel free to reach out if you have any questions or if you’re interested in collaborating on projects related to data analysis and supply chain management.
 - 
 <!---
 Afzal-Waris-Shiblee/Afzal-Waris-Shiblee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
