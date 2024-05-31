@@ -2,7 +2,7 @@
 Python Developer and Data Analyst
 
 I am currently working in the Supply Chain Department of an FMCG company. With extensive experience in Python and Power BI, I specialize in data analysis and visualization to drive informed decision-making.
-About Me
+
 
 I have successfully developed and implemented a "Python Procurement Price List" project that is now running smoothly in my office. My expertise includes:
 
